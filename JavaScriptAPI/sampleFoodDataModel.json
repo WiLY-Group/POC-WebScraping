@@ -1,0 +1,16 @@
+{
+    "id": 0,
+    "foodName": "banana",
+    "nutrition": {
+        "basic": ["fat", "salt", "protein"],
+        "vitamins": ["b2", "c"],
+        "minerals": ["iron"],
+        "energy": 120
+    },
+    "dietaryTags": ["gluten free", "keto", "vegetarian", "dairy free"],
+    "alergenTags": [],
+    "metadata": {
+        "USDAId": 3132131,
+        "foodCode": 213121
+    }
+}

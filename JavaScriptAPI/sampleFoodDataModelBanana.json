@@ -1,0 +1,43 @@
+{   
+    "id": 0,
+    "foodName": "Banana, raw",
+    "nutrition": {
+        "basic": [
+            "Protein",
+            "Fat",
+            "Carbohydrate",
+            "Sugar"
+        ],
+        "vitamins": [
+            "Vitamin A, RAE",
+            "Carotene, beta",
+            "Carotene, alpha",
+            "Vitamin E (alpha-tocopherol)",
+            "Lutein + zeaxanthin",
+            "Vitamin C, total ascorbic acid",
+            "Thiamin",
+            "Niacin",
+            "Vitamin B-6",
+            "Folate, total",
+            "Choline, total",
+            "Vitamin K (phylloquinone)",
+            "Folate, food",
+            "Folate, DFE"
+        ],
+        "minerals": [
+            "Calcium, Ca",
+            "Magnesium, Mg",
+            "Phosphorus, P",
+            "Potassium, K",
+            "Zinc, Zn",
+            "Copper, Cu"
+        ],
+        "energy": 97
+    },
+    "dietaryTags": [],
+    "alergenTags": [],
+    "metadata": {
+        "USDAId": 2344720,
+        "foodCode": 63107010
+    }
+}

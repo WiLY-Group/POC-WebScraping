@@ -1,7 +1,6 @@
 const { default: axios } = require('axios');
 
 require('dotenv').config()
-require('axios');
 const key = process.env.usda_key;
 console.log(key);
 
